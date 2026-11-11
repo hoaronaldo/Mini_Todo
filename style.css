@@ -198,3 +198,10 @@ input.checkbox.checked,
     padding: 12px;
   }
 }
+.error {
+  border-color: #f44336;
+}
+.completed .task-title {
+  color: #7c8799;
+  text-decoration: line-through;
+}
